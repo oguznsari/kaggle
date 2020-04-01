@@ -1,0 +1,8 @@
+1- While exploring the data you may notice that the text that we are looking for not even in a text format
+    generally its either CSV or JSON or even crazier :)
+2- While working with a very large data set, during preprocessing steps it is wise to save almost everything.
+    (depends on the size of the data that we are dealing with)
+
+
+OUTCOME 1- LEARN REGULAR EXPRESSIONS
+dig into regEx in order tp improve the script
